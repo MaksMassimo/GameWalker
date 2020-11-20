@@ -3,3 +3,7 @@
 ################################################################################
 
 *.db-shm
+/.vs/GameWalker/v16/Browse.VC.db-wal
+/.vs/GameWalker/v16/Browse.VC.opendb
+/.vs/GameWalker/v16/Browse.VC.db
+/.vs/ProjectSettings.json
